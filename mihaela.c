@@ -1,3 +1,4 @@
 #include <stdio.h>
 
-bla bla
+
+extern void main ();
