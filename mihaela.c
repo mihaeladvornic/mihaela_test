@@ -2,3 +2,5 @@
 
 
 extern void main ();
+
+/* newline */
